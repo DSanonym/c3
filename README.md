@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="overview.jpg" alt="C3 overview" width="400">
+  <img src="overview.jpg" alt="C3 overview" width="300">
 </p>
 
 # C3: Resolution-Invariant Causal Modeling in Continuous Space-Time
 
-This repository contains the implementation accompanying the paper **"Resolution-Invariant Causal Modeling in Continuous Space-Time"** (`06.05.2026..C3_Resolution_Invariant_Causal_Modeling_in_Continuous_Space-Time.pdf`).
+This repository contains the implementation accompanying the paper **"Resolution-Invariant Causal Modeling in Continuous Space-Time"**.
 
 ## Overview
 
