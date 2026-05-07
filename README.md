@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="overview.jpg" alt="C3 overview" width="700">
+  <img src="overview.jpg" alt="C3 overview" width="400">
 </p>
 
 # C3: Resolution-Invariant Causal Modeling in Continuous Space-Time
