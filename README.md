@@ -4,6 +4,8 @@
 
 # C3: Resolution-Invariant Causal Modeling in Continuous Space-Time
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DSanonym/c3/blob/main/main.ipynb)
+
 This repository contains the implementation accompanying the paper **"Resolution-Invariant Causal Modeling in Continuous Space-Time"**.
 
 ## Overview
